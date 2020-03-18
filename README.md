@@ -1,8 +1,16 @@
 # UnemploymentAid.org
 
 ## Easily navigate your unemployment benefits
+UnemploymentAid.org is a tool for navigating unemployment benefits. We help you quickly answer the following questions
 
-### Legal Resources by State
+1. Do I qualify for unemployment?
+2. How much should my unemployment be?
+3. When will I receive my benefits?
+4. How do I maintain my benefits?
+
+The project is entirely open source and non-profit. We will not host ads, collect user data, or anything like that.
+
+## Legal Resources by State
 
 ### Alabama - AL
 ----
