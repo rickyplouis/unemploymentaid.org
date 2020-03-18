@@ -50,7 +50,7 @@ The project is entirely open source and non-profit. We will not host ads, collec
 * Insert Resource Here
 ### Illinois - IL
 ----
-* Insert Resource Here
+* [Illinois Department of Employment Security - IDES](https://www2.illinois.gov/ides/Pages/default.aspx)
 ### Indiana - IN
 ----
 * Insert Resource Here
