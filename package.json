@@ -1,0 +1,16 @@
+{
+  "name": "unemploymentaid.org",
+  "version": "1.0.0",
+  "description": "Easily navigate unemployment benefits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "unemployment",
+    "oss",
+    "non-profit"
+  ],
+  "author": "rickyplouis",
+  "license": "MIT"
+}
