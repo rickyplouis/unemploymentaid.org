@@ -107,7 +107,7 @@ The project is entirely open source and non-profit. We will not host ads, collec
 * Insert Resource Here
 ### New York - NY
 ----
-* Insert Resource Here
+* [New York State - Department of Labor](https://applications.labor.ny.gov/IndividualReg/)
 ### North Carolina - NC
 ----
 * Insert Resource Here
